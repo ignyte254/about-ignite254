@@ -21,8 +21,9 @@ Unacceptable behaviours include:
 ## Our Responsibilities
 We illuminate our values and take action in response to any breach of conduct.
 We monitor all our dealings as per this code of conduct and take actions such as temporal or permanent banishment of members found guilty. Matters involving physical violence will be handed over to security officials.
+
 ## Scope
-This Code of Conduct applies to all our activities and all our members. Examples of our activities include community meet-ups, workshops, tech events and our social media engagements.
+This Code of Conduct applies to all our members and activities. Examples of our activities include community meet-ups, workshops, tech events and our social media engagements.
 
 ## Enforcement
 Report all instances of abuse, harassment or uncouth behaviour at ignyte254@gmail.com
