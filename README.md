@@ -2,7 +2,7 @@
 **ignyte254** which was founded on **4th March 2019**, is a student run tech community based in Chuka University, Tharaka Nithi County, Kenya.<br/>
 Our community is made of members with a desire to leverage their software development skills with the currently used technologies in the tech industry.<br/>
 
-##Shared Struggle
+## Shared Struggle
 There is a huge disconnect between the technologies taught in school and what is used in the tech industry. Existing tech clubs in some institutions around under-developed areas experience challenges in trying to deal with the issue. Having avenues where people can receive foundation or direction on how to use these technologies is a plus.
 
 ## Mission
@@ -28,5 +28,5 @@ Collaborate with established tech clubs to provide tech-avenues for growth in in
 
 <br/><br/>If you wish to partner with us in any way (even in ways not covered above), kindly reach out to us on ignyte254@gmail.com
 
-##Code of conduct
+## Code of conduct
 [ Click this link](https://github.com/ignyte254/about-ignyte254/blob/master/CODE_OF_CONDUCT.md)
