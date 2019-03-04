@@ -6,4 +6,4 @@ Our community is made of members out to leverage their software development skil
 To provide knowledge and guidance on the active and emerging technologies in the tech industry.
 
 ## Vision
-To provide tech-avenues for growth institutions around under-developed areas.
+To provide tech-avenues for growth in institutions around under-developed areas.
